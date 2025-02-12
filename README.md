@@ -30,7 +30,7 @@ O banco de dados contém as seguintes tabelas:
 
 ## Consultas SQL
 
-O arquivo `Sistema de Gestão de Funcionários - SQL.sql` contém as seguintes consultas:
+O arquivo `Sistema de Gestão de Funcionários.sql` contém as seguintes consultas:
 
 1. **Inserção de dados:** Inserção de dados nas tabelas `Departamento`, `Cidade`, `Cargo` e `Funcionario`.
 2. **Atualização de salários:** Aumento de 10% no salário de todos os funcionários.
